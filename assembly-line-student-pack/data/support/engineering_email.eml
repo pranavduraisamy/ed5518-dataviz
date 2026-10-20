@@ -1,0 +1,9 @@
+From: Kavya Menon <kavya.menon@varuna.example>
+To: Imran Khan <imran.khan@varuna.example>, Priya Raman <priya.raman@varuna.example>
+Date: Tue, 29 Sep 2026 16:43:00 +0530
+Subject: Containment and lot disposition on SL-27
+
+We have released the current SL-27 material conditionally; RECHECK cycles are expected where the first trace is ambiguous.
+Please keep each tester attempt in Q-Lab. For shipment, use final disposition, not first run, pending supplier call.
+I don't want first-pass discussion in the morning call to be taken as a quality escape without confirming it.
+Imran: can we get a time-based view of the load on the tester, not just total accepted numbers?

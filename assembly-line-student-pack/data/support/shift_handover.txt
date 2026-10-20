@@ -1,0 +1,11 @@
+VARUNA SHIFT HANDOVER — selected excerpts (not complete incident log)
+
+2026-09-22 10:12 | D | Shift lead: Press temperature tile went amber near loading shutter again. No trip on controller; check ventilation after lunch.
+2026-09-24 11:04 | D | Imran: Check fastening tip temperature at intervals. Some H-run torque confirmations need second touch. Replacement bit still not cleared by stores.
+2026-09-25 12:26 | D | Raj: The incoming press buffer backed up around the middle of shift. PulseBoard still attributes the most lost time to press; check when reports refresh.
+2026-09-28 17:31 | E | Kavya: New seal receipt tagged SL-27 on some L assemblies. Lab requested clarity on how to classify second checks; ask quality before changing limits.
+2026-09-29 10:19 | D | Raj: Press-temperature warnings near door; operator reports no actual press reset.
+2026-09-30 11:43 | D | Imran: H fastening tip slowed after heat soak. Bit replacement not done; can watch the buffer by the fastening aisle.
+2026-10-01 16:21 | E | Raj: Packing looking for label rolls. Somebody says stockroom picked them already. Need actual line-side check.
+2026-10-01 17:18 | E | Arun: Got issue posting in system later; delivery timing disputed, no signed receipt.
+2026-10-02 11:16 | D | Priya: Team says different constraint every time I ask. Need one investment recommendation by Monday.
